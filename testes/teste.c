@@ -4,10 +4,10 @@ int main()
 {
 	printf("Ola pessoas!");
 
-	int x;
+	float x;
 	x = 12312.2;
-	int y = 5 + x;
-	printf("%d", y);
+	float y = 5 + x;
+	printf("%f", y);
 	
 	return 0;
 }
